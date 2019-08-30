@@ -1,0 +1,34 @@
+{
+  "restaurant": [
+    {
+      "dishPrice": 200,
+      "dishName": "Cheesecake",
+      "category": "dessert",
+      "id": 1
+    },
+    {
+      "dishName": "Salad",
+      "dishPrice": "45",
+      "category": "salad",
+      "id": 3
+    },
+    {
+      "dishName": "Fruit Water",
+      "dishPrice": "15",
+      "category": "drinks",
+      "id": 4
+    },
+    {
+      "dishPrice": "150",
+      "dishName": "Barbacoa",
+      "category": "meat",
+      "id": 5
+    },
+    {
+      "dishName": "Cheve",
+      "dishPrice": "30",
+      "category": "drinks",
+      "id": 6
+    }
+  ]
+}
